@@ -1,2 +1,2 @@
-# blog_shop
-A simple blog with shopping features
+# test_idea
+A simple idea
